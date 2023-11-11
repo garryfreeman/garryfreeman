@@ -1,4 +1,4 @@
-# Hi there, I'm Garik 👋
+# Hi there, I'm Garry 👋
 
 ### I'm a React and Node.JS Fullstack developer
 
@@ -34,10 +34,10 @@
 
 #### Connect with me:
 
-<a href="mailto:garikfreedomyan@gmail.com" >
+<a href="mailto:garryfreeman69@gmail.com" >
   <img src="./img/social/gmail.svg" alt="email: garikfreedomyan@gmail.com" width="56" height="56"/>
 </a>
-<a href="https://t.me/garikfreedomyan" >
+<a href="https://t.me/garry_free" >
   <img src="./img/social/telegram.svg" alt="telegram: garikfreedomyan" width="56" height="56"/>
 </a>
 <a href="https://www.linkedin.com/in/garik-freedomyan-458a47186/" >
@@ -49,5 +49,5 @@
 
 #### GitHub stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garikfreedomyan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Garik Freedomyan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garikfreedomyan&layout=compact&buefy=algolia&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garryfreeman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Garik Freedomyan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garryfreeman&layout=compact&buefy=algolia&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

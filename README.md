@@ -40,12 +40,7 @@
 <a href="https://t.me/garry_free" >
   <img src="./img/social/telegram.svg" alt="telegram: garikfreedomyan" width="56" height="56"/>
 </a>
-<a href="https://www.linkedin.com/in/garik-freedomyan-458a47186/" >
-  <img src="./img/social/linkedin.svg" alt="LinkedIn link" width="56" height="56"/>
-</a>
-<a href="https://twitter.com/garikfreedomyan" >
-  <img src="./img/social/twitter.svg" alt="twitter: garikfreedomyan" width="56" height="56"/>
-</a>
+
 
 #### GitHub stats:
 

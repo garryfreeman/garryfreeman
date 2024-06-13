@@ -10,7 +10,7 @@
 #### My Projects and Libraries:
 
 - [ureng.io](https://ureng.io/) - Ur personal english dictionary
-- [ur-ui]([https://ui.ureng.io/](https://ur-apps.github.io/ui)) - React UI library
+- [ur-ui](https://ur-apps.github.io/ui) - React UI library
 - [gvalid](https://www.npmjs.com/package/gvalid) - JS and TS validation library
 
 #### Languages and Tools:

@@ -9,7 +9,7 @@
 
 #### My Projects and Libraries:
 
-- [ureng.io](https://ureng.io/) - UR personal english dictionary
+- [ureng.io](https://ureng.io/) - UR personal english dictionary (not available 🥲)
 - [ur-ui](https://ur-apps.github.io/ui) - React UI library
 - [ur-validator](https://github.com/ur-apps/validator) - JS and TS validation library
 
@@ -37,7 +37,7 @@
 <a href="mailto:garryfreeman09@gmail.com" >
   <img src="./img/social/gmail.svg" alt="email: garryfreeman09@gmail.com" width="56" height="56"/>
 </a>
-<a href="https://t.me/undefined_1234" tarhet="_blank" >
+<a href="https://t.me/undefined_1234" >
   <img src="./img/social/telegram.svg" alt="telegram: undefined_1234" width="56" height="56"/>
 </a>
 

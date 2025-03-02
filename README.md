@@ -34,15 +34,15 @@
 
 #### Connect with me:
 
-<a href="mailto:garryfreeman69@gmail.com" >
-  <img src="./img/social/gmail.svg" alt="email: garikfreedomyan@gmail.com" width="56" height="56"/>
+<a href="mailto:garryfreeman09@gmail.com" >
+  <img src="./img/social/gmail.svg" alt="email: garryfreeman09@gmail.com" width="56" height="56"/>
 </a>
-<a href="https://t.me/garry_free" >
-  <img src="./img/social/telegram.svg" alt="telegram: garikfreedomyan" width="56" height="56"/>
+<a href="https://t.me/undefined_1234" >
+  <img src="./img/social/telegram.svg" alt="telegram: undefined_1234" width="56" height="56"/>
 </a>
 
 
 #### GitHub stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garryfreeman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Garik Freedomyan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garryfreeman&layout=compact&buefy=algolia&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garryfreeman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Garry Freeman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garryfreeman&layout=compact&buefy=algolia&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

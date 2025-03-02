@@ -9,7 +9,7 @@
 
 #### My Projects and Libraries:
 
-- [ureng.io](https://ureng.io/) - UR personal english dictionary (not available 🥲)
+- [ureng](https://ureng.io/) - UR personal english dictionary (not available 🥲)
 - [ur-ui](https://ur-apps.github.io/ui) - React UI library
 - [ur-validator](https://github.com/ur-apps/validator) - JS and TS validation library
 
